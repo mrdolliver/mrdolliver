@@ -20,10 +20,13 @@ I specialize in:
 
 ## 🌟 Highlighted Projects
 
-Here are some of the projects I've worked on:
-- [Project Name 1](link-to-project) - Brief description of what this project involves and your role.
-- [Project Name 2](link-to-project) - Brief description of what this project involves and your role.
-- [Project Name 3](link-to-project) - Brief description of what this project involves and your role.
+Here are some of the projects I've worked on: (I will post videos soon to use as examples of my work)
+- [DOCSIS Primer] (link-to-project) - I created this brief tutorial on how a cable modem initializes using the Data Over Cable Interface Specification (DOCSIS).
+- [ICCAP product training] (link-to-project) - I developed this product training course on an Integrated Cable Access Platform (ICCAP).
+- [ICCAP hands on labs] (link-to-project) - I created a lab environment and these written hands on lab for customers to enable learners practical application of product training.
+- [Development Work Flow] (link-to-project) - As training manager I implemented this work flow for the creation and management of courses for course developers.
+- [Cloud Native and Kubernetes Fundamentals] (link-to-project) - As one my last projects I developed this course to be used by internal employees who were not familiar with cloud native technologies.
+ 
 
 ## 📫 Get in Touch
 
