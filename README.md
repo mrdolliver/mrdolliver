@@ -30,13 +30,12 @@ Here are some of the projects I've worked on:
 Feel free to connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile) 
-- [Twitter](https://twitter.com/yourprofile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [mrdolliver@icloud.com](mailto:your.mrdolliver@icloud.com)
 
 ## 🎨 Fun Facts
 
 - I enjoy exploring new technologies and learning about emerging trends in tech.
-- Outside of work, I’m passionate about [hobby or interest].
+- Outside of work, I’m passionate about tennis, hiking, mountaineering.
 - I’m always up for a challenge and love collaborating on innovative projects.
 
 Thanks for visiting my profile! If you have any questions or want to collaborate, don’t hesitate to reach out. 😊
