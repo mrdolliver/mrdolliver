@@ -18,14 +18,28 @@ I specialize in:
 - **Content Creation**: Producing engaging multimedia content for diverse audiences
 - **Communication**: Strong interpersonal skills with experience in public speaking and workshop facilitation
 
-## 🌟 Highlighted Projects
+#### Projects
 
-Here are some of the projects I've worked on: (I will post videos soon to use as examples of my work)
-- [DOCSIS Primer] (link-to-project) - I created this brief tutorial on how a cable modem initializes using the Data Over Cable Interface Specification (DOCSIS).
-- [ICCAP product training] (link-to-project) - I developed this product training course on an Integrated Cable Access Platform (ICCAP).
-- [ICCAP hands on labs] (link-to-project) - I created a lab environment and these written hands on lab for customers to enable learners practical application of product training.
-- [Development Work Flow] (link-to-project) - As training manager I implemented this work flow for the creation and management of courses for course developers.
-- [Cloud Native and Kubernetes Fundamentals] (link-to-project) - As one my last projects I developed this course to be used by internal employees who were not familiar with cloud native technologies.
+Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise, from coding and development to problem-solving and design.
+
+### [Project Name 1](link-to-project)
+**Description:** A brief overview of what the project is about, including the problem it solves or the goal it achieves.  
+**Technologies Used:** List of key technologies and tools used in the project (e.g., Python, React, Docker).  
+**Highlights:** Key features or achievements of the project, such as unique functionalities or performance improvements.  
+**Link:** [GitHub Repository](link-to-repository) | [Live Demo](link-to-demo)
+
+### [Project Name 2](link-to-project)
+**Description:** A concise summary of the project's purpose and impact.  
+**Technologies Used:** Technologies and tools involved (e.g., JavaScript, Node.js, MongoDB).  
+**Highlights:** Noteworthy aspects of the project, like user interface design, scalability, or integration with other systems.  
+**Link:** [GitHub Repository](link-to-repository) | [Live Demo](link-to-demo)
+
+### [Project Name 3](link-to-project)
+**Description:** Overview of the project's goals, scope, and outcomes.  
+**Technologies Used:** List of major technologies and tools used (e.g., HTML, CSS, Angular).  
+**Highlights:** Special features, performance metrics, or other notable details about the project.  
+**Link:** [GitHub Repository](link-to-repository) | [Live Demo](link-to-demo)
+
  
 
 ## 📫 Get in Touch
