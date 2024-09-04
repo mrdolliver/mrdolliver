@@ -28,7 +28,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Highlights:** Key features or achievements of the project, such as unique functionalities or performance improvements.  
 **Link:** [GitHub Repository](link-to-repository) | [Sample Video](link-to-video)
 
-### [Cloud Native & Kubernetes primer](link-to-project)
+### [Cloud Native & Kubernetes Primer](link-to-project)
 **Description:** A concise summary of the project's purpose and impact.  
 **Technologies Used:** Technologies and tools involved (e.g., JavaScript, Node.js, MongoDB).  
 **Highlights:** Noteworthy aspects of the project, like user interface design, scalability, or integration with other systems.  
