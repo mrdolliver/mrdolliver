@@ -20,7 +20,7 @@ I specialize in:
 
 #### Projects
 
-Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise, from coding and development to problem-solving and design.
+Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. I will be posting links to samples for each project check back soon.
 
 ### [Project Name 1](link-to-project)
 **Description:** A brief overview of what the project is about, including the problem it solves or the goal it achieves.  
