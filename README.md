@@ -22,7 +22,7 @@ I specialize in:
 
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. I will be posting links to samples for each project check back soon.
 
-### [DOCSIS Primer](https://app.screencast.com/GSefk96TBgs4r)
+### [DOCSIS Primer](https://github.com/mrdolliver/mrdolliver/blob/main/test_video.mp4)
 **Description:** A brief overview of what the project is about, including the problem it solves or the goal it achieves.  
 **Technologies Used:** List of key technologies and tools used in the project (e.g., Python, React, Docker).  
 **Highlights:** Key features or achievements of the project, such as unique functionalities or performance improvements.  
