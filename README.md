@@ -55,7 +55,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 
 Feel free to connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) 
+- [LinkedIn](https://github.com/mrdolliver/mrdolliver/tree/main) 
 - Email: [mrdolliver@icloud.com](mailto:your.mrdolliver@icloud.com)
 
 ## 🎨 Fun Facts
