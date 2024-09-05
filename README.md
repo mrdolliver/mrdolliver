@@ -23,9 +23,10 @@ I specialize in:
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the title to view the video. *** Note, these videos are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
 ### [DOCSIS Primer](https://github.com/mrdolliver/mrdolliver/blob/main/test_video.mp4)
-**Description:** This is one of the very first projects I worked on at my prevous company. The goal of the project was to begin creating byte size video tutorials on specific subjects.  
-**Authoring tools:** MS Poerwpoint,MS Word,Camtasia,Audacity.  
-**Highlights:** We had customers requesting these tutorials becuase it was not often possible to send all of thier personal to attend formal instructor led training. I developed dozens of these short tutorials on a wide variety of subjects this is just one example.  
+**Description: ** This is one of the very first projects I worked on at my previous company. The goal of the project was to begin creating byte size video tutorials on specific subjects.  
+**Authoring tools: ** MS PowerPoint, MS Word, Camtasia, Audacity.  
+**Highlights: ** We had customers requesting these tutorials because it was not often possible to send all their personal to attend formal instructor led training. I developed dozens of these short tutorials on a wide variety of subjects this is just one example.  
+  
 
 ### [Cloud Native & Kubernetes Primer](link-to-project)
 **Description:** A concise summary of the project's purpose and impact.  
