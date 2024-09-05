@@ -23,13 +23,16 @@ I specialize in:
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the title to view the video. *** Note, these videos are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
 ### [DOCSIS Primer](https://github.com/mrdolliver/mrdolliver/blob/main/test_video.mp4)
-**Description:** This is one of the very first projects I worked on at my previous company. The goal of the project was to begin creating bite size video tutorials on specific subjects, we named them video nibbles.  
-**Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity.  
+**Description:** This is one of the very first projects I worked on at my previous company. The goal of the project was to begin creating bite size video tutorials on specific subjects, we named them video nibbles.
+
+**Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity.
+
 **Highlights:** We had customers requesting these tutorials because it was not often possible to send all their personal to attend formal instructor led training. I developed dozens of these short tutorials on a wide variety of subjects this is just one example.  
   
 
 ### [Cloud Native & Kubernetes Primer](link-to-project)
 **Description:** A relatively short video to introduce customers both internal and external with no experience in cloud native technologies.  
+
 **Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity.
 
 **Highlights:** Both our customers and internal employees came from a cable and telco background. This course was meant to introduce them to the basic technologies and implementations in cloud native architectures. Additionally, it was meant to be a prerequisite for the 5G core product training.    
