@@ -18,14 +18,14 @@ I specialize in:
 - **Content Creation**: Producing engaging multimedia content for diverse audiences
 - **Communication**: Strong interpersonal skills with experience in public speaking and workshop facilitation
 
-#### Projects
+### Projects
 
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the title to view the video. *** Note, these videos are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
-### [Technical Writing](link-to-project) 
-**Participant guide:** Each course came with a written participant guide that complemented the PowerPoint or online presentation(s)
+### Technical Writing
+** [Participant guide sample](link-to-project) Each course came with a written participant guide that complemented the PowerPoint or online presentation(s)
 
-**Hands on labs:** Several product courses implemented a hands on lab component.
+**Hands on labs sample:** (link-to-project) Several product courses implemented a hands on lab component.
 
 
 ### [DOCSIS Primer](https://github.com/mrdolliver/mrdolliver/blob/main/test_video.mp4)
@@ -50,12 +50,6 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 
 **Highlights:**  In addition to the lecture portion of the course, I built a network lab with 8 ICCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous expirence this was a unique implmentation in that when hands on labs were part of the course the equipment had to be shipped to the lacation. This was 1- Costly and 2- a logistical challenge. 
 
-
-### [ICCAP Hands on Labs](link-to-project)
-**Description:** Overview of the project's goals, scope, and outcomes.  
-**Technologies Used:** List of major technologies and tools used (e.g., HTML, CSS, Angular).  
-**Highlights:** Special features, performance metrics, or other notable details about the project.  
-**Link:** [GitHub Repository](link-to-repository) | [Sample Video](link-to-video)
   
 ### [Training Dept. Work FLow](link-to-project)
 **Description:** Overview of the project's goals, scope, and outcomes.  
