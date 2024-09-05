@@ -18,7 +18,7 @@ I specialize in:
 - **Content Creation**: Producing engaging multimedia content for diverse audiences
 - **Communication**: Strong interpersonal skills with experience in public speaking and workshop facilitation
 
-## Projects
+# Projects
 
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the links to view a sample video or document. Note, these videos/documents are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
@@ -28,6 +28,15 @@ Each course came with a written participant guide that complemented the PowerPoi
 [Participant guide sample](link-to-project) 
 
 [Hands on labs guide sample](link-to-project)
+
+### Training Dept. Method of Procedure Documents. 
+[Work Flow MOP sample](link-to-sample)
+
+**Description:** As the department grew I created and maintained several Method of Procedure'(MOPs)'documents to include development work flow, how to for the Learning Management System instructor guides etc.  
+**Technologies Used:** MS Word/PDF  
+**Highlights:** THe MOPS ensured that knowledge of the various procedures within the deptament were consistent and reproducible without relying on other persons.   
+
+# Training Courses
 
 ### DOCSIS Primer 
 [DOCSIS Primer sample:](link-to-sample)
@@ -56,14 +65,7 @@ Each course came with a written participant guide that complemented the PowerPoi
 **Technologies Used:** MS PowerPoint,MS WOrd (participany guide) to complement the powerpoint.  
 
 **Highlights:**  In addition to the lecture portion of the course, I built a network lab with 8 ICCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous expirence this was a unique implmentation in that when hands on labs were part of the course the equipment had to be shipped to the lacation. This was 1- Costly and 2- a logistical challenge. 
-
-  
-### Training Dept. Method of Procedure Documents. 
-[Work Flow MOP sample](link-to-sample)
-
-**Description:** As the department grew I created and maintained several Method of Procedure'(MOPs)'documents to include development work flow, how to for the Learning Management System instructor guides etc.  
-**Technologies Used:** MS Word/PDF  
-**Highlights:** THe MOPS ensured that knowledge of the various procedures within the deptament were consistent and reproducible without relying on other persons.   
+ 
 
 ## 📫 Get in Touch
 
