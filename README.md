@@ -37,7 +37,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Highlights:** The MOPS ensured that knowledge of the various procedures within the department were consistent and reproducible without relying on other persons.   
 [Work Flow MOP sample](link-to-sample)
 
-# Training Courses
+# :mortar_board:Training Courses
 
 ### DOCSIS Primer 
 
