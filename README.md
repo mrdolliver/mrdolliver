@@ -23,7 +23,7 @@ I specialize in:
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the links to view a sample video or document. Note, these videos/documents are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
 ### Technical Writing
-Each course came with a written participant guide that complemented the PowerPoint or online presentatations> In addition,several product courses implemented a hands on lab component. Click the links below for sample guides. 
+Each course came with a written participant guide that complemented the PowerPoint or online presentatations.In addition,several product courses implemented a hands on lab component. Click the links below for sample guides. 
 
 [Participant guide sample](link-to-project) 
 
@@ -48,7 +48,9 @@ Each course came with a written participant guide that complemented the PowerPoi
 
 **Highlights:** Both our customers and internal employees came from a cable and telco background. This course was meant to introduce them to the basic technologies and implementations in cloud native architectures. Additionally, it was meant to be a prerequisite for the 5G core product training.    
 
-### [ICCAP Product Training](link-to-project)
+### ICCAP Product Training
+[ICCAP Product Training sample:](link-to-sample)
+
 **Description:** This was the companys flagship product and what I was brought on board to develop training for this product. In its intial form this curse was a 3 day ILT training mostly at the customer location.
 
 **Technologies Used:** MS PowerPoint,MS WOrd (participany guide) to complement the powerpoint.  
@@ -56,11 +58,13 @@ Each course came with a written participant guide that complemented the PowerPoi
 **Highlights:**  In addition to the lecture portion of the course, I built a network lab with 8 ICCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous expirence this was a unique implmentation in that when hands on labs were part of the course the equipment had to be shipped to the lacation. This was 1- Costly and 2- a logistical challenge. 
 
   
-### [Training Dept. Work FLow](link-to-project)
-**Description:** Overview of the project's goals, scope, and outcomes.  
-**Technologies Used:** List of major technologies and tools used (e.g., HTML, CSS, Angular).  
-**Highlights:** Special features, performance metrics, or other notable details about the project.  
-**Link:** [GitHub Repository](link-to-repository) | [Sample Video](link-to-video)
+### Training Dept. Method of Procedure Documents. 
+[Work Flow MOP sample.](link-to-sample)
+
+**Description:** As the department grew I created and maintained several Method of Procedure'(MOPs)'documents to include development work flow, how to for the Learning Management System instructor guides etc.  
+**Technologies Used:** MS Word/PDF  
+**Highlights:** THe MOPS ensured that knowledge of the various procedures within the deptament were consistent and reproducible without relying on other persons.   
+
 ## 📫 Get in Touch
 
 Feel free to connect with me:
