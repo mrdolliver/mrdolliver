@@ -20,17 +20,16 @@ I specialize in:
 
 ### Projects
 
-Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the title to view the video. *** Note, these videos are not the full project, just samples from the original to convey a flavor of my work product/style. 
+Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the links to view a sample video or document. Note, these videos/documents are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
 ### Technical Writing
+Each course came with a written participant guide that complemented the PowerPoint or online presentatations> In addition,several product courses implemented a hands on lab component. Click the links below for sample guides. 
 
-[Participant guide sample](link-to-project) Each course came with a written participant guide that complemented the PowerPoint or online presentation(s)
+[Participant guide sample](link-to-project) 
 
-**Hands on labs sample:** (link-to-project) Several product courses implemented a hands on lab component.
-
+[Hands on labs guide sample](link-to-project)
 
 ### DOCSIS Primer 
-
 [DOCSIS Primer sample:](link-to-sample)
 
 **Description:** This is one of the very first projects I worked on at my previous company. The goal of the project was to begin creating bite size video tutorials on specific subjects, we named them video nibbles.
@@ -40,15 +39,17 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Highlights:** We had customers requesting these tutorials because it was not often possible to send all their personal to attend formal instructor led training. I developed dozens of these short tutorials on a wide variety of subjects this is just one example.  
   
 
-### [Cloud Native & Kubernetes Primer](link-to-project)
+### Cloud Native & Kubernetes Primer
+[Cloud Native primer sample:](link-to-sample)
+
 **Description:** A relatively short video to introduce customers both internal and external with no experience in cloud native technologies.  
 
-**Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity. For an example of the participant guide please click this link---->ICCAP Participant Guide. 
+**Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity. 
 
 **Highlights:** Both our customers and internal employees came from a cable and telco background. This course was meant to introduce them to the basic technologies and implementations in cloud native architectures. Additionally, it was meant to be a prerequisite for the 5G core product training.    
 
 ### [ICCAP Product Training](link-to-project)
-**Description:** THis was the companys flagship product and what I was brought on board to develop training for this product. In its intial form this curse was a 3 day ILT training mostly at the customer location.
+**Description:** This was the companys flagship product and what I was brought on board to develop training for this product. In its intial form this curse was a 3 day ILT training mostly at the customer location.
 
 **Technologies Used:** MS PowerPoint,MS WOrd (participany guide) to complement the powerpoint.  
 
