@@ -62,7 +62,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 
 **Description:** This was the company's flagship product and what I was brought on board to develop training for this product. In its initial form this course was a 3-day ILT training mostly at the customer location. This course was eventually migrated to online self-paced using an LMS.
 
-**Technologies Used:** MS PowerPoint,MS Word (participant guide) to complement the slideware.  
+**Technologies Used:** MS PowerPoint, MS Word (participant guide) to complement the slideware.  
 
 **Highlights:**  In addition to the lecture portion of the course, I built a network lab with 8 ICCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous experience this was a unique implementation in that when hands on labs were part of the course the equipment had to be shipped to the location. This was 1- Costly and 2- a logistical challenge. 
 
