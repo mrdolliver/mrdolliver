@@ -25,7 +25,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 ## Technical Writing 
 **Description:** Each course came with a participate user guide to complment the ILT,VILT or Self-paced courses. In Addition several product course implmented hands on labs for learn by doing methodology.  
 **Technologies Used:** MS Word/PDF  
-**Highlights:** The participant user guides could be used to follow along with the presentation and make notes as well as future reference material. The hands on lab guides were written as step by step, so that if there were differnt levels of knowledge in the training evreyone could participate. 
+**Highlights:** The participant user guides could be used to follow along with the presentation and make notes as well as future reference material. The hands on lab guides were written as step by step, so that if there were different levels of knowledge in the training evreyone could participate. 
 
 [Participant guide sample](link-to-project) 
 
