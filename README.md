@@ -40,7 +40,7 @@ Each course came with a written participant guide that complemented the PowerPoi
   
 
 ### Cloud Native & Kubernetes Primer
-[Cloud Native primer sample:](link-to-sample)
+[Cloud Native primer sample](link-to-sample)
 
 **Description:** A relatively short video to introduce customers both internal and external with no experience in cloud native technologies.  
 
@@ -49,7 +49,7 @@ Each course came with a written participant guide that complemented the PowerPoi
 **Highlights:** Both our customers and internal employees came from a cable and telco background. This course was meant to introduce them to the basic technologies and implementations in cloud native architectures. Additionally, it was meant to be a prerequisite for the 5G core product training.    
 
 ### ICCAP Product Training
-[ICCAP Product Training sample:](link-to-sample)
+[ICCAP Product Training sample](link-to-sample)
 
 **Description:** This was the companys flagship product and what I was brought on board to develop training for this product. In its intial form this curse was a 3 day ILT training mostly at the customer location.
 
@@ -59,7 +59,7 @@ Each course came with a written participant guide that complemented the PowerPoi
 
   
 ### Training Dept. Method of Procedure Documents. 
-[Work Flow MOP sample.](link-to-sample)
+[Work Flow MOP sample](link-to-sample)
 
 **Description:** As the department grew I created and maintained several Method of Procedure'(MOPs)'documents to include development work flow, how to for the Learning Management System instructor guides etc.  
 **Technologies Used:** MS Word/PDF  
