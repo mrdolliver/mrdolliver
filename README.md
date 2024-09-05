@@ -22,50 +22,50 @@ I specialize in:
 
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the links to view a sample video or document. Note, these videos/documents are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
-### Technical Writing
-Each course came with a written participant guide that complemented the PowerPoint or online presentatations.In addition,several product courses implemented a hands on lab component. Click the links below for sample guides. 
+## Technical Writing 
+**Description:** Each course came with a participate user guide to complment the ILT,VILT or Self-paced courses. In Addition several product course implmented hands on labs for learn by doing methodology.  
+**Technologies Used:** MS Word/PDF  
+**Highlights:** The participant user guides could be used to follow along with the presentation and make notes as well as future reference material. The hands on lab guides were written as step by step, so that if there were differnt levels of knowledge in the training evreyone could participate. 
 
 [Participant guide sample](link-to-project) 
 
 [Hands on labs guide sample](link-to-project)
 
 ### Training Dept. Method of Procedure Documents. 
-[Work Flow MOP sample](link-to-sample)
-
 **Description:** As the department grew I created and maintained several Method of Procedure'(MOPs)'documents to include development work flow, how to for the Learning Management System instructor guides etc.  
 **Technologies Used:** MS Word/PDF  
 **Highlights:** THe MOPS ensured that knowledge of the various procedures within the deptament were consistent and reproducible without relying on other persons.   
+[Work Flow MOP sample](link-to-sample)
 
 # Training Courses
 
 ### DOCSIS Primer 
-[DOCSIS Primer sample:](link-to-sample)
 
 **Description:** This is one of the very first projects I worked on at my previous company. The goal of the project was to begin creating bite size video tutorials on specific subjects, we named them video nibbles.
 
 **Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity.
 
 **Highlights:** We had customers requesting these tutorials because it was not often possible to send all their personal to attend formal instructor led training. I developed dozens of these short tutorials on a wide variety of subjects this is just one example.  
-  
+  [DOCSIS Primer sample:](link-to-sample)
 
 ### Cloud Native & Kubernetes Primer
-[Cloud Native primer sample](link-to-sample)
 
 **Description:** A relatively short video to introduce customers both internal and external with no experience in cloud native technologies.  
 
 **Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity. 
 
 **Highlights:** Both our customers and internal employees came from a cable and telco background. This course was meant to introduce them to the basic technologies and implementations in cloud native architectures. Additionally, it was meant to be a prerequisite for the 5G core product training.    
+[Cloud Native primer sample](link-to-sample)
 
 ### ICCAP Product Training
-[ICCAP Product Training sample](link-to-sample)
+
 
 **Description:** This was the companys flagship product and what I was brought on board to develop training for this product. In its intial form this curse was a 3 day ILT training mostly at the customer location.
 
 **Technologies Used:** MS PowerPoint,MS WOrd (participany guide) to complement the powerpoint.  
 
-**Highlights:**  In addition to the lecture portion of the course, I built a network lab with 8 ICCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous expirence this was a unique implmentation in that when hands on labs were part of the course the equipment had to be shipped to the lacation. This was 1- Costly and 2- a logistical challenge. 
- 
+**Highlights:**  In addition to the lecture portion of the course, I built a network lab with 8 ICCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous expirence this was a unique implmentation in that when hands on labs were part of the course the equipment had to be shipped to the location. This was 1- Costly and 2- a logistical challenge. 
+ [ICCAP Product Training sample](link-to-sample)
 
 ## 📫 Get in Touch
 
