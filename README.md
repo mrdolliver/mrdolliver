@@ -20,13 +20,12 @@ I specialize in:
 
 #### Projects
 
-Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. I will be posting links to samples for each project check back soon.
+Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the title to view the video. *** Note, these videos are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
 ### [DOCSIS Primer](https://github.com/mrdolliver/mrdolliver/blob/main/test_video.mp4)
-**Description:** A brief overview of what the project is about, including the problem it solves or the goal it achieves.  
-**Technologies Used:** List of key technologies and tools used in the project (e.g., Python, React, Docker).  
-**Highlights:** Key features or achievements of the project, such as unique functionalities or performance improvements.  
-**Link:** [GitHub Repository](link-to-repository) | [Sample Video](link-to-video)
+**Description:** This is one of the very first projects I worked on at my prevous company. The goal of the project was to begin creating byte size video tutorials on specific subjects.  
+**Authoring tools:** MS Poerwpoint,MS Word,Camtasia,Audacity.  
+**Highlights:** We had customers requesting these tutorials becuase it was not often possible to send all of thier personal to attend formal instructor led training. I developed dozens of these short tutorials on a wide variety of subjects this is just one example.  
 
 ### [Cloud Native & Kubernetes Primer](link-to-project)
 **Description:** A concise summary of the project's purpose and impact.  
