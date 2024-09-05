@@ -23,9 +23,9 @@ I specialize in:
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the links to view a sample video or document. Note, these videos/documents are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
 ## Technical Writing 
-**Description:** Each course came with a participate user guide to complment the ILT,VILT or Self-paced courses. In Addition several product course implmented hands on labs for learn by doing methodology.  
+**Description:** Each course came with a participate user guide to complement the ILT, VILT or self-paced courses. In addition, several product courses implemented hands on labs for learn by doing methodology.   
 **Technologies Used:** MS Word/PDF  
-**Highlights:** The participant user guides could be used to follow along with the presentation and make notes as well as future reference material. The hands on lab guides were written as step by step, so that if there were different levels of knowledge in the training evreyone could participate. 
+**Highlights:** The participant user guides could be used to follow along with the presentation and make notes as well as future reference material. The hands-on lab guides were written as step by step, so that if there were different levels of knowledge in the training everyone could participate. 
 
 [Participant guide sample](link-to-project) 
 
@@ -34,7 +34,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 ### Training Dept. Method of Procedure Documents. 
 **Description:** As the department grew I created and maintained several Method of Procedure'(MOPs)'documents to include development work flow, how to for the Learning Management System instructor guides etc.  
 **Technologies Used:** MS Word/PDF  
-**Highlights:** THe MOPS ensured that knowledge of the various procedures within the deptament were consistent and reproducible without relying on other persons.   
+**Highlights:** The MOPS ensured that knowledge of the various procedures within the department were consistent and reproducible without relying on other persons.   
 [Work Flow MOP sample](link-to-sample)
 
 # Training Courses
@@ -60,11 +60,11 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 ### ICCAP Product Training
 
 
-**Description:** This was the companys flagship product and what I was brought on board to develop training for this product. In its intial form this curse was a 3 day ILT training mostly at the customer location.
+**Description:** This was the company's flagship product and what I was brought on board to develop training for this product. In its initial form this course was a 3-day ILT training mostly at the customer location. This course was eventually migrated to online self-paced using an LMS.
 
-**Technologies Used:** MS PowerPoint,MS WOrd (participany guide) to complement the powerpoint.  
+**Technologies Used:** MS PowerPoint,MS Word (participant guide) to complement the slideware.  
 
-**Highlights:**  In addition to the lecture portion of the course, I built a network lab with 8 ICCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous expirence this was a unique implmentation in that when hands on labs were part of the course the equipment had to be shipped to the location. This was 1- Costly and 2- a logistical challenge. 
+**Highlights:**  In addition to the lecture portion of the course, I built a network lab with 8 ICCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous experience this was a unique implementation in that when hands on labs were part of the course the equipment had to be shipped to the location. This was 1- Costly and 2- a logistical challenge. 
 
  [ICCAP Product Training sample](link-to-sample)
 
