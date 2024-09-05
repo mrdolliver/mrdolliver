@@ -29,10 +29,9 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
   
 
 ### [Cloud Native & Kubernetes Primer](link-to-project)
-**Description:** A concise summary of the project's purpose and impact.  
-**Technologies Used:** Technologies and tools involved (e.g., JavaScript, Node.js, MongoDB).  
-**Highlights:** Noteworthy aspects of the project, like user interface design, scalability, or integration with other systems.  
-**Link:** [GitHub Repository](link-to-repository) | [Sample Video](link-to-video)
+**Description:** A relatively short video to introduce customers both internal and external with no experience in cloud native technologies.  
+**Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity.
+**Highlights:** Both our customers and internal employees came from a cable and telco background. This course was meant to introduce them to the basic technologies and implementations in cloud native architectures. Additionally, it was meant to be a prerequisite for the 5G core product training.    
 
 ### [ICCAP Product Training](link-to-project)
 **Description:** Overview of the project's goals, scope, and outcomes.  
