@@ -22,7 +22,7 @@ I specialize in:
 
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the links to view a sample video or document. Note, these videos/documents are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
-## Technical Writing 
+## :pencil2:Technical Writing 
 **Description:** Each course came with a participate user guide to complement the ILT, VILT or self-paced courses. In addition, several product courses implemented hands on labs for learn by doing methodology.   
 **Technologies Used:** MS Word/PDF  
 **Highlights:** The participant user guides could be used to follow along with the presentation and make notes as well as future reference material. The hands-on lab guides were written as step by step, so that if there were different levels of knowledge in the training everyone could participate. 
