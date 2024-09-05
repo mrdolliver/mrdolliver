@@ -65,6 +65,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Technologies Used:** MS PowerPoint,MS WOrd (participany guide) to complement the powerpoint.  
 
 **Highlights:**  In addition to the lecture portion of the course, I built a network lab with 8 ICCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous expirence this was a unique implmentation in that when hands on labs were part of the course the equipment had to be shipped to the location. This was 1- Costly and 2- a logistical challenge. 
+
  [ICCAP Product Training sample](link-to-sample)
 
 ## 📫 Get in Touch
