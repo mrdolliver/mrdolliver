@@ -18,7 +18,7 @@ I specialize in:
 - **Content Creation**: Producing engaging multimedia content for diverse audiences
 - **Communication**: Strong interpersonal skills with experience in public speaking and workshop facilitation
 
-### Projects
+## Projects
 
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the links to view a sample video or document. Note, these videos/documents are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
