@@ -79,7 +79,7 @@ Feel free to connect with me:
 
 - I enjoy exploring new technologies and learning about emerging trends in tech.
 - Outside of work, I’m passionate about tennis, hiking, mountaineering.
-- I’m always up for a challenge and love collaborating on innovative projects.
+- I’m always up for a challenge and love collaborating on innovative projects and learning new technologies .
 
 Thanks for visiting my profile! If you have any questions or want to collaborate, don’t hesitate to reach out. 😊
 
