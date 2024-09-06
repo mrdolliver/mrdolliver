@@ -18,7 +18,7 @@ I specialize in:
 - **Content Creation**: Producing engaging multimedia content for diverse audiences
 - **Communication**: Strong interpersonal skills with experience in public speaking and workshop facilitation
 
-#  :construction_worker: Projects
+#  :notebook_with_decorative_cover: Portfolio
 
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the links to view a sample video or document. Note, these videos/documents are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
@@ -55,7 +55,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity. 
 
 **Highlights:** Both our customers and internal employees came from a cable and telco background. This course was meant to introduce them to the basic technologies and implementations in cloud native architectures. Additionally, it was meant to be a prerequisite for the 5G core product training.    
-[Cloud Native primer sample](link-to-sample)
+[Cloud Native primer sample](https://app.screencast.com/b8jApEZLDT0uO)
 
 ### ICCAP Product Training
 
