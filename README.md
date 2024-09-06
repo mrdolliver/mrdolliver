@@ -29,7 +29,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 
 [Participant guide sample](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/Course_1010_Student_Guide.pdf) 
 
-[Hands on labs guide sample](link-to-project)
+[Hands on labs guide sample](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/course_1010_lab_guide.pdf)
 
 ### Training Dept. Method of Procedure Documents. 
 **Description:** As the department grew I created and maintained several Method of Procedure'(MOPs)'documents to include development work flow, how to for the Learning Management System instructor guides etc.  
