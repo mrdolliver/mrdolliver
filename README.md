@@ -46,7 +46,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity.
 
 **Highlights:** We had customers requesting these tutorials because it was not often possible to send all their personal to attend formal instructor led training. I developed dozens of these short tutorials on a wide variety of subjects this is just one example.  
-  [DOCSIS Primer sample:](https://app.screencast.com/U2oUr1yUZdkZB) Run time 5:10.
+  [DOCSIS Primer sample:](https://app.screencast.com/U2oUr1yUZdkZB) ***Run time 5:10***
 
 ### Cloud Native & Kubernetes Primer
 
@@ -55,7 +55,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity. 
 
 **Highlights:** Both our customers and internal employees came from a cable and telco background. This course was meant to introduce them to the basic technologies and implementations in cloud native architectures. Additionally, it was meant to be a prerequisite for the 5G core product training.    
-[Cloud Native primer sample](https://app.screencast.com/b8jApEZLDT0uO) Run time 16:34 
+[Cloud Native primer sample](https://app.screencast.com/b8jApEZLDT0uO) ***Run time 16:34*** 
 
 ### ICCAP Product Training
 
@@ -66,7 +66,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 
 **Highlights:**  In addition to the lecture portion of the course, I built a network lab with 8 ICCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous experience this was a unique implementation in that when hands on labs were part of the course the equipment had to be shipped to the location. This was 1- Costly and 2- a logistical challenge. 
 
- [ICCAP Product Training sample](link-to-sample)
+ [ICCAP Product Training sample](link-to-sample) ***Coming soon***
 
 ## 📫 Get in Touch
 
