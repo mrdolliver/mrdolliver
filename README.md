@@ -46,7 +46,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity.
 
 **Highlights:** We had customers requesting these tutorials because it was not often possible to send all their personal to attend formal instructor led training. I developed dozens of these short tutorials on a wide variety of subjects this is just one example.  
-  [DOCSIS Primer sample:](https://app.screencast.com/U2oUr1yUZdkZB)
+  [DOCSIS Primer sample:](https://app.screencast.com/U2oUr1yUZdkZB Run time 5:10.
 
 ### Cloud Native & Kubernetes Primer
 
@@ -55,7 +55,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity. 
 
 **Highlights:** Both our customers and internal employees came from a cable and telco background. This course was meant to introduce them to the basic technologies and implementations in cloud native architectures. Additionally, it was meant to be a prerequisite for the 5G core product training.    
-[Cloud Native primer sample](https://app.screencast.com/b8jApEZLDT0uO)
+[Cloud Native primer sample](https://app.screencast.com/b8jApEZLDT0uO) Run time 16:34 
 
 ### ICCAP Product Training
 
