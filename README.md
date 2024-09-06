@@ -35,7 +35,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Description:** As the department grew I created and maintained several Method of Procedure'(MOPs)'documents to include development work flow, how to for the Learning Management System instructor guides etc.  
 **Technologies Used:** MS Word/PDF  
 **Highlights:** The MOPS ensured that knowledge of the various procedures within the department were consistent and reproducible without relying on other persons.   
-[Work Flow MOP sample](link-to-sample)
+[Work Flow MOP sample](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/example_work_flow_style_guide.v4.pdf)
 
 # :mortar_board:Training Courses
 
