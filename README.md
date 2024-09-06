@@ -46,7 +46,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity.
 
 **Highlights:** We had customers requesting these tutorials because it was not often possible to send all their personal to attend formal instructor led training. I developed dozens of these short tutorials on a wide variety of subjects this is just one example.  
-  [DOCSIS Primer sample:](https://app.screencast.com/U2oUr1yUZdkZB Run time 5:10.
+  [DOCSIS Primer sample:](https://app.screencast.com/U2oUr1yUZdkZB) Run time 5:10.
 
 ### Cloud Native & Kubernetes Primer
 
