@@ -27,7 +27,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 **Technologies Used:** MS Word/PDF  
 **Highlights:** The participant user guides could be used to follow along with the presentation and make notes as well as future reference material. The hands-on lab guides were written as step by step, so that if there were different levels of knowledge in the training everyone could participate. 
 
-[Participant guide sample](link-to-project) 
+[Participant guide sample](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/Course_1010_Student_Guide.pdf) 
 
 [Hands on labs guide sample](link-to-project)
 
