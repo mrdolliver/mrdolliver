@@ -52,27 +52,27 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 
 **Description:** A relatively short video to introduce customers both internal and external with no experience in cloud native technologies.  
 
-**Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity. 
+**Authoring tools:** MS PowerPoint, MS Word, Camtasia, Audacity and AI voice over. 
 
 **Highlights:** Both our customers and internal employees came from a cable and telco background. This course was meant to introduce them to the basic technologies and implementations in cloud native architectures. Additionally, it was meant to be a prerequisite for the 5G core product training.    
 [Cloud Native primer sample](https://app.screencast.com/b8jApEZLDT0uO) ***Run time 16:34*** 
 
-### ICCAP Product Training
+### VCCAP Product Training
 
 
-**Description:** This was the company's flagship product and what I was brought on board to develop training for this product. In its initial form this course was a 3-day ILT training mostly at the customer location. This course was eventually migrated to online self-paced using an LMS.
+**Description:** The Virtual Converged Cable Access product was new product training. This product virtualized the the companies flagship product. 
 
-**Technologies Used:** MS PowerPoint, MS Word (participant guide) to complement the slideware.  
+**Technologies Used:** MS PowerPoint, MS Word,Camtasia and AI voiceover. 
 
-**Highlights:**  In addition to the lecture portion of the course, I built a network lab with 8 ICCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous experience this was a unique implementation in that when hands on labs were part of the course the equipment had to be shipped to the location. This was 1- Costly and 2- a logistical challenge. 
+**Highlights:**  In addition to the online version of the course, I built a network lab with 8 VCCAPs that could be accessed remotely from anywhere so the learners could participate in hands on labs and demos. In my previous experience this was a unique implementation in that when hands on labs were part of the course the equipment had to be shipped to the location. This was 1- Costly and 2- a logistical challenge. 
 
- [ICCAP Product Training sample](link-to-sample) ***Coming soon***
+ [VCCAP Product Training sample](https://app.screencast.com/bG0k5FZWnAJV8) ***Run time 5:6***
 
 ## 📫 Get in Touch
 
 Feel free to connect with me:
 
-- [LinkedIn](https://github.com/mrdolliver/mrdolliver/tree/main) 
+- [LinkedIn](www.linkedin.com/in/robert-dolliver) 
 - Email: [mrdolliver@icloud.com](mailto:your.mrdolliver@icloud.com)
 
 ## 🎨 Fun Facts
