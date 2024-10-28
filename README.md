@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/mrdolliver/mrdolliver/blob/rd_docs/my_logo_200_200.png" alt="logo" />
+</p>
 
 
 # 👋 Hi there! I'm Robert Dolliver
