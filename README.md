@@ -1,4 +1,4 @@
-!(https://github.com/mrdolliver/mrdolliver/blob/rd_docs/my_logo_200_200.png)
+![logo](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/my_logo_200_200.png)
 
 # 👋 Hi there! I'm Robert Dolliver
 
