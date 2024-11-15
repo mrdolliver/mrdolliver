@@ -23,9 +23,14 @@ I specialize in:
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the links to view a sample video or document. Note, these videos/documents are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
 ## :pencil2:Technical Writing 
-**Description:** Each course came with a participate user guide to complement the ILT, VILT or self-paced courses. In addition, several product courses implemented hands on labs for learn by doing methodology.   
-**Technologies Used:** MS Word/PDF  
-**Highlights:** The participant user guides could be used to follow along with the presentation and make notes as well as future reference material. The hands-on lab guides were written as step by step, so that if there were different levels of knowledge in the training everyone could participate. 
+**How to Guides** This is one example of many howto guides I wrote.This Guide details how to install a Kubernetes cluster on Centos 7. 
+**Authoring Tools** Markdown/PDF
+**Description** This guide was requested by sales enginners so that they could install a lab environemnt Kubernetes cluster for customer demos/training as well as self development on the technology.
+[How to install Kubernetes cluster on Centos raw.md file](https://github.com/mrdolliver/mrdolliver/commit/6881534e24fbb193657bdb4aeffad9b4dbc2a67c0)
+[How to install Kubernetes cluster on Centos pdf file]
+**Participant Guides:** Each course came with a participate user guide to complement the ILT, VILT or self-paced courses. In addition, several product courses implemented hands on labs for learn by doing methodology.   
+**Authoring tools:** MS Word/PDF  
+**Description:** The participant user guides could be used to follow along with the presentation and make notes as well as future reference material. The hands-on lab guides were written as step by step, so that if there were different levels of knowledge in the training everyone could participate. 
 
 [Participant guide sample](link-to-project) 
 
@@ -33,7 +38,7 @@ Here is a collection of projects I’ve worked on, showcasing my skills and cont
 
 ### Training Dept. Method of Procedure Documents. 
 **Description:** As the department grew I created and maintained several Method of Procedure'(MOPs)'documents to include development work flow, how to for the Learning Management System instructor guides etc.  
-**Technologies Used:** MS Word/PDF  
+**Authoring tools:** MS Word/PDF  
 **Highlights:** The MOPS ensured that knowledge of the various procedures within the department were consistent and reproducible without relying on other persons.   
 [Work Flow MOP sample](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/example_work_flow_style_guide.v4.pdf)
 
