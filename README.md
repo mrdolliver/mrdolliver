@@ -31,7 +31,7 @@ Here you can finsd examples of my technical wrting.
 **How to Guides:** This is one example of a How to Guide that I wrote. 
 **Authoring tools** Markdown/Visual Code Studio.
 **Highlights** his guide was requested by sales engineers so that they could create a sandbox Kubernetes deployment in thier local labs for customer demos and employee technical  training. This guide was written in markdown so that it could be easily posted on an internal Confluence site. In addition the markdown was converted to PDF for portability.  
-[How to install Kubernetes cluster on Centos raw.md file](https://github.com/mrdolliver/mrdolliver/commit/6881534e24fbb193657bdb4aeffad9b4dbc2a67c) on Centos
+[How to install Kubernetes cluster on Centos raw.md file](https://github.com/mrdolliver/mrdolliver/commit/6881534e24fbb193657bdb4aeffad9b4dbc2a67c)
 
 [How to install Kubernetes cluster on Centos pdf file]
 
