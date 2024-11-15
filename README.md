@@ -26,8 +26,8 @@ I specialize in:
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the links to view a sample video or document. Note, these videos/documents are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
 ## :pencil2:Technical Writing 
-
 Here you can finsd examples of my technical wrting.
+
 **How to Guides:** This is one example of a How to Guide that I wrote. 
 
 **Authoring tools** Markdown/Visual Code Studio.
