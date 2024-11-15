@@ -26,8 +26,15 @@ I specialize in:
 Here is a collection of projects I’ve worked on, showcasing my skills and contributions across various domains. Each project highlights different aspects of my expertise. Just click on the links to view a sample video or document. Note, these videos/documents are not the full project, just samples from the original to convey a flavor of my work product/style. 
 
 ## :pencil2:Technical Writing 
-**Description:** Each course came with a participate user guide to complement the ILT, VILT or self-paced courses. In addition, several product courses implemented hands on labs for learn by doing methodology.   
-**Technologies Used:** MS Word/PDF  
+
+Here you can finsd examples of my technical wrting.
+**How to Guides:** This is one example of a How to Guide that I wrote. 
+**Authoring tools** Markdown/Visual Code Studio.
+**Highlights** his guide was requested by sales engineers so that they could create a sandbox Kubernetes deployment in thier local labs for customer demos and employee technical  training. This guide was written in markdown so that it could be easily posted on an internal Confluence site. In addition the markdown was converted to PDF for portability.  
+[How to install Kubernetes cluster on Centos](https://github.com/mrdolliver/mrdolliver/commit/6881534e24fbb193657bdb4aeffad9b4dbc2a67c)
+
+**Participant Guides:** Each course came with a participate user guide to complement the ILT, VILT or self-paced courses. In addition, several product courses implemented hands on labs for learn by doing methodology.   
+**Authoring tools :** MS Word/PDF  
 **Highlights:** The participant user guides could be used to follow along with the presentation and make notes as well as future reference material. The hands-on lab guides were written as step by step, so that if there were different levels of knowledge in the training everyone could participate. 
 
 [Participant guide sample](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/Course_1010_Student_Guide.pdf) 
