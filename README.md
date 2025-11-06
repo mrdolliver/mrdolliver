@@ -58,7 +58,7 @@ Each project highlights different aspects of my expertise. Just click the links 
 | **Task-Based Guide** | Kubernetes sandbox deployment instructions for Sales Engineers | Markdown, VS Code | [How to install K8s (PDF)](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/%23%20how%20to%20install_vanilla_K8s_on%20Centos7.pdf) |
 | **Participant Guide** | Student course companion for CMTS product training | MS Word / PDF | [Course 1010 Student Guide](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/Course_1010_Student_Guide.pdf) |
 | **Lab Guide** | Step-by-step lab manual for technical learners | MS Word / PDF | [Course 1010 Lab Guide](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/course_1010_lab_guide.pdf) |
-| **MOP (Method of Procedure)** | Department workflow and LMS administration | MS Word / PDF | [LMS MOP Guide](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/lms_mop_2022-1.pdf) |
+| **MOP (Method of Procedure)** | Department workflow and LMS administration | MS Word / PDF | [LMS MOP Guide](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/example_work_flow_style_guide.v4.pdf) |
 
 ---
 
