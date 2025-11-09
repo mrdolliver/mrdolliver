@@ -1,6 +1,23 @@
 <p align="center">
-  <img src="https://github.com/mrdolliver/mrdolliver/blob/rd_docs/my_logo_200_200.png" alt="logo" width="160" />
+  <img src="https://github.com/mrdolliver/mrdolliver/blob/main/my_logo_200_200.png" alt="logo" width="160" />
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/robert-dolliver">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-robert--dolliver-blue?logo=linkedin">
+  </a>
+  <a href="mailto:mrdolliver@icloud.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-mrdolliver%40icloud.com-lightgrey?logo=gmail">
+  </a>
+  <a href="https://github.com/mrdolliver/mrdolliver/blob/main/Robert_Dolliver_Resume_fl.pdf">
+    <img alt="Resume" src="https://img.shields.io/badge/PDF-Professional%20Résumé-0b3d91">
+  </a>
+  <a href="https://github.com/mrdolliver">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-mrdolliver-black?logo=github">
+  </a>
+</p>
+
+---
 
 # 👋 Hi, I’m Robert Dolliver  
 
@@ -30,10 +47,10 @@ With over **20 years of experience** in telecom, networking, and cloud systems, 
 
 | Type | Description | Tools | Sample |
 |------|--------------|--------|---------|
-| **Task-Based Guide** | Kubernetes sandbox deployment instructions | Markdown, VS Code | [How to Install K8s (PDF)](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/docs/how_to_install_vanilla_K8s_on_Centos7.pdf) |
-| **Participant Guide** | Course companion for CMTS product training | MS Word / PDF | [Course 1010 Student Guide](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/docs/Course_1010_Student_Guide.pdf) |
-| **Lab Guide** | Step-by-step technical lab for learners | MS Word / PDF | [Course 1010 Lab Guide](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/docs/course_1010_lab_guide.pdf) |
-| **Workflow (MOP)** | LMS and operations procedure guide | MS Word / PDF | [LMS MOP Guide](https://github.com/mrdolliver/mrdolliver/blob/rd_docs/docs/example_work_flow_style_guide.v4.pdf) |
+| **Task-Based Guide** | Kubernetes sandbox deployment instructions | Markdown, VS Code | [How to Install K8s (PDF)](https://github.com/mrdolliver/mrdolliver/blob/main/docs/how_to_install_vanilla_K8s_on_Centos7.pdf) |
+| **Participant Guide** | Course companion for CMTS product training | MS Word / PDF | [Course 1010 Student Guide](https://github.com/mrdolliver/mrdolliver/blob/main/docs/Course_1010_Student_Guide.pdf) |
+| **Lab Guide** | Step-by-step technical lab for learners | MS Word / PDF | [Course 1010 Lab Guide](https://github.com/mrdolliver/mrdolliver/blob/main/docs/course_1010_lab_guide.pdf) |
+| **Workflow (MOP)** | LMS and operations procedure guide | MS Word / PDF | [LMS MOP Guide](https://github.com/mrdolliver/mrdolliver/blob/main/docs/example_work_flow_style_guide.v4.pdf) |
 
 ---
 
@@ -69,6 +86,16 @@ My approach blends **clarity**, **structure**, and **empathy for the learner** �
 ## 📫 Let’s Connect  
 - 📧 [mrdolliver@icloud.com](mailto:mrdolliver@icloud.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/robert-dolliver)
+
+---
+
+<p align="center">
+  <b>Let’s connect:</b>
+  <a href="https://linkedin.com/in/robert-dolliver">LinkedIn</a> •
+  <a href="mailto:mrdolliver@icloud.com">Email</a> •
+  <a href="https://github.com/mrdolliver">GitHub</a> •
+  <a href="https://mrdolliver.github.io">Portfolio Site</a>
+</p>
 
 ---
 
